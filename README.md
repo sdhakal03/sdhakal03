@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+I’m Shital Dhakal, an undergraduate student enrolled in the University of Maryland Global Campus (Summer 2026).
 
-<!--
-**sdhakal03/sdhakal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about:
 
-Here are some ideas to get you started:
+Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Scripting & Automation
+
+Learning new technologies
+
+Sharing ideas and collaborating with others
+
+🚀 I enjoy exploring security concepts, building projects, and continuously improving my technical skills.
